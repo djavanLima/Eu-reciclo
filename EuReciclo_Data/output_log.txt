@@ -1,0 +1,54 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX130 (ID=0x174d)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\ARQ_DJAVAN\DJAVAN\Documents\eu reciclo - Cópia\EuReciclo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\ARQ_DJAVAN\DJAVAN\Documents\eu reciclo - Cópia\EuReciclo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\ARQ_DJAVAN\DJAVAN\Documents\eu reciclo - Cópia\EuReciclo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\ARQ_DJAVAN\DJAVAN\Documents\eu reciclo - Cópia\EuReciclo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\ARQ_DJAVAN\DJAVAN\Documents\eu reciclo - Cópia\EuReciclo_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\ARQ_DJAVAN\DJAVAN\Documents\eu reciclo - Cópia\EuReciclo_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\ARQ_DJAVAN\DJAVAN\Documents\eu reciclo - Cópia\EuReciclo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\ARQ_DJAVAN\DJAVAN\Documents\eu reciclo - Cópia\EuReciclo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.669 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+Platform assembly: F:\ARQ_DJAVAN\DJAVAN\Documents\eu reciclo - Cópia\EuReciclo_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 0.588400 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 430.
+Total: 2.667500 ms (FindLiveObjects: 0.048800 ms CreateObjectMapping: 0.027700 ms MarkObjects: 0.187100 ms  DeleteObjects: 0.031800 ms)
+
+UnloadTime: 1.325600 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 180.
+Total: 3.501800 ms (FindLiveObjects: 0.027400 ms CreateObjectMapping: 0.023400 ms MarkObjects: 0.190300 ms  DeleteObjects: 0.666500 ms)
+
+UnloadTime: 0.737200 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 418.
+Total: 2.648200 ms (FindLiveObjects: 0.045200 ms CreateObjectMapping: 0.028600 ms MarkObjects: 0.186300 ms  DeleteObjects: 0.031900 ms)
+
+UnloadTime: 0.639800 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 1.693800 ms (FindLiveObjects: 0.021000 ms CreateObjectMapping: 0.018200 ms MarkObjects: 0.105600 ms  DeleteObjects: 0.321300 ms)
+
+Platform assembly: F:\ARQ_DJAVAN\DJAVAN\Documents\eu reciclo - Cópia\EuReciclo_Data\Managed\Boo.Lang.dll (this message is harmless)
+xInfinity
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
